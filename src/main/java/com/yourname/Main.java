@@ -57,6 +57,8 @@ public class Main {
         int s2abs = Math.abs(s2);
         System.out.println(s2abs);
 
+        // Конец строки. Арифметические операторы.
+
         System.out.println(i);
         System.out.println(d);
         System.out.println(a);
